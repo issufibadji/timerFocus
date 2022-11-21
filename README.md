@@ -49,9 +49,8 @@ To use this project, go to the link:
 
 <img align="left" src="https://avatars.githubusercontent.com/issufibadji?size=100">
 
-Made with ❤️ by [Igor da Silva](https://github.com/IgorSilvaMedeiros), get in touch!
-
-<a href="mailto:issufibadji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
+Made with ❤️ by [Issufi Badji](issufibadji.github.io/portfolio/), get in touch!
+<a href="mailto:issufibadji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/issufibadji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 <br clear="left"/>
