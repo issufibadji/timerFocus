@@ -43,7 +43,7 @@ In the links below you will find the layout of the web project and also the mobi
 
 To use this project, go to the link:
 
-[Link Project](https://igorsilvamedeiros.github.io/FocusTimer-2.0/)
+[Link Project](https://issufibadji.github.io/timerFocus-0.2/)
 
 ## Contact
 
